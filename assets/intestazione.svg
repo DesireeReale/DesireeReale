@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240" role="img" aria-label="Desiree Reale, AI/LLM engineer">
+<style>
+.k{font:600 12px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:.14em;fill:#f2b63c;text-anchor:middle}
+.n{font:700 42px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:-.02em;fill:#e6edf3;text-anchor:middle}
+.t{font:15px ui-monospace,'Cascadia Code',Consolas,monospace;fill:#e6edf3}
+.p{fill:#f2b63c}
+.b{font:600 11px Verdana,sans-serif;fill:#fff;text-anchor:middle}
+.g{opacity:0;animation:g 12s infinite}.g2{animation-delay:4s}.g3{animation-delay:8s}
+@keyframes g{0%,33%{opacity:1}33.01%,100%{opacity:0}}
+.w{animation:w 4s steps(44) infinite}
+@keyframes w{0%{width:0}55%,90%{width:387px}100%{width:0}}
+.cur{animation:c 1s steps(1) infinite,m 4s steps(44) infinite}
+@keyframes c{50%{opacity:0}}
+@keyframes m{0%{transform:translateX(0)}55%,90%{transform:translateX(387px)}100%{transform:translateX(0)}}
+@media (prefers-reduced-motion:reduce){.g,.w,.cur{animation:none}.g{opacity:0}.g:first-of-type{opacity:1}.w{width:387px}}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1406"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<clipPath id="cp"><rect class="w" x="254.5" y="140" height="30" width="0"/></clipPath>
+</defs>
+<rect x="1" y="1" width="878" height="238" rx="8" fill="url(#bg)" stroke="#f2b63c"/>
+<text x="440.0" y="50" class="k">AI / LLM ENGINEER</text>
+<text x="440.0" y="110" class="n">Desiree Reale</text>
+<text x="234.5" y="160" class="t p">&gt;</text>
+<g clip-path="url(#cp)">
+<text x="254.5" y="160" class="t g">costruisco motori RAG che restano in casa</text>
+<text x="254.5" y="160" class="t g g2">agenti che leggono, decidono e riportano</text>
+<text x="254.5" y="160" class="t g g3">automazioni che girano senza essere toccate</text>
+</g>
+<rect class="cur p" x="256.5" y="146" width="8" height="17"/>
+<rect x="56.0" y="200" width="75.2" height="20" rx="3" fill="#3a2c0c"/><rect x="115.2" y="200" width="16" height="20" rx="3" fill="#3572a5"/><rect x="115.2" y="200" width="4" height="20" fill="#3572a5"/><text x="85.6" y="214" class="b">Python</text><rect x="137.2" y="200" width="60.8" height="20" rx="3" fill="#3a2c0c"/><rect x="182.0" y="200" width="16" height="20" rx="3" fill="#b7410e"/><rect x="182.0" y="200" width="4" height="20" fill="#b7410e"/><text x="159.6" y="214" class="b">Rust</text><rect x="204.0" y="200" width="104.0" height="20" rx="3" fill="#3a2c0c"/><rect x="292.0" y="200" width="16" height="20" rx="3" fill="#c9a400"/><rect x="292.0" y="200" width="4" height="20" fill="#c9a400"/><text x="248.0" y="214" class="b">JavaScript</text><rect x="314.0" y="200" width="75.2" height="20" rx="3" fill="#3a2c0c"/><rect x="373.2" y="200" width="16" height="20" rx="3" fill="#1d63ed"/><rect x="373.2" y="200" width="4" height="20" fill="#1d63ed"/><text x="343.6" y="214" class="b">Docker</text><rect x="395.2" y="200" width="104.0" height="20" rx="3" fill="#3a2c0c"/><rect x="483.2" y="200" width="16" height="20" rx="3" fill="#336791"/><rect x="483.2" y="200" width="4" height="20" fill="#336791"/><text x="439.2" y="214" class="b">PostgreSQL</text><rect x="505.2" y="200" width="89.6" height="20" rx="3" fill="#3a2c0c"/><rect x="578.8" y="200" width="16" height="20" rx="3" fill="#2f6f4f"/><rect x="578.8" y="200" width="4" height="20" fill="#2f6f4f"/><text x="542.0" y="214" class="b">pgvector</text><rect x="600.8" y="200" width="68.0" height="20" rx="3" fill="#3a2c0c"/><rect x="652.8" y="200" width="16" height="20" rx="3" fill="#24c8db"/><rect x="652.8" y="200" width="4" height="20" fill="#24c8db"/><text x="626.8" y="214" class="b">Tauri</text><rect x="674.8" y="200" width="53.6" height="20" rx="3" fill="#3a2c0c"/><rect x="712.4" y="200" width="16" height="20" rx="3" fill="#ea4b71"/><rect x="712.4" y="200" width="4" height="20" fill="#ea4b71"/><text x="693.6" y="214" class="b">n8n</text><rect x="734.4" y="200" width="89.6" height="20" rx="3" fill="#3a2c0c"/><rect x="808.0" y="200" width="16" height="20" rx="3" fill="#7c3aed"/><rect x="808.0" y="200" width="4" height="20" fill="#7c3aed"/><text x="771.2" y="214" class="b">Obsidian</text>
+</svg>

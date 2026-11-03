@@ -1,0 +1,28 @@
+name: serpente
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  genera:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/serpente.svg?color_snake=#c08f2a&color_dots=#ebedf0,#f6e3b4,#ecc56b,#d9a033,#b07a12
+            dist/serpente-scuro.svg?color_snake=#f2b63c&color_dots=#161b22,#3a2c0c,#7a5a16,#c08f2a,#f2b63c
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
