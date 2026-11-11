@@ -3,7 +3,6 @@
 </p>
 
 
-**AI/LLM engineer.** 
 ## Attività
 
 <picture>
